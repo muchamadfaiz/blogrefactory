@@ -2,12 +2,12 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Muchamad Faiz
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Muchamad Faiz
         description: Example description
         weight: 1
     zh-cn:
@@ -56,12 +56,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 
+        subtitle: goal-oriented person and enjoy adapting to new environments.
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/faiz.jpg
 
     article:
         math: false
@@ -199,15 +199,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/muchamadfaiz
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
+        # - identifier: twitter
+        #   name: Twitter
+        #   url: https://twitter.com
+        #   params:
+        #       icon: brand-twitter
 
 related:
     includeNewer: true
